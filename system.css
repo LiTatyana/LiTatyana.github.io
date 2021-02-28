@@ -1,0 +1,34 @@
+body{
+	background-color: #EDD6C4;
+	color: #5B3E3E;
+}
+h1{
+	color: #31668E;
+	font-size: 40pt;
+	font-family: Georgia;
+}
+h2{
+	color: #328991;
+	font-size: 20pt;
+	font-family: serif;
+}
+a{
+	color: #D51B1B;
+}
+
+a:hover{
+	color:#3611F3;
+}
+p{
+	font-size: 15pt;
+	font-family: Arial ;
+}
+li,ol,ul {
+	font-family: Tahoma;
+	color: #705C4B;
+}
+table{
+	font-size: 18pt;
+	font-family: serif;
+	
+}
